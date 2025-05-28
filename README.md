@@ -1,6 +1,18 @@
 # 📁 Projeto Clone BuzzFeed com Angular
 
-Esse projeto foi desenvolvido durante o bootcamp Potência Tech Angular Developer - Powered by iFood da DIO(Digital Innovation One) com o Framework Angular. Consiste na criação de um Quizz com utilização dos conceitos aprendidos durante o bootcamp. A temática que escolhi é: Qual a sua casa de Hogwarts?
+Esse é um projeto que desenvolvi para praticar Angular, criando um clone de quiz estilo Buzzfeed com o tema do Chapéu Seletor de Hogwarts ⚡️. A ideia é que o usuário responda algumas perguntas e, no final, receba a casa de Hogwarts que mais combina com seu perfil.
+
+Usei esse projeto para treinar:
+
+* Criação de componentes com Angular
+
+* Manipulação de dados e lógica
+
+* Organização e estrutura de projeto no Angular CLI
+
+O quiz tem uma interface simples e responsiva, com perguntas de múltipla escolha, transições de tela e resultado personalizado no final.
+
+Foi um ótimo exercício para colocar em prática os conceitos de SPA (Single Page Application). Além disso, foi super divertido trazer um pouco do universo Harry Potter pro código!
 
 Acesse o site e faça o seu teste através do link: [https://brenda-a-s.github.io/BuzzfeedClone-sorting-hat-quizz/](https://brenda-a-s.github.io/BuzzfeedClone-sorting-hat-quizz/)
 
