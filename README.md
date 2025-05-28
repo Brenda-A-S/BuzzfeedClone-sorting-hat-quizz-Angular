@@ -28,7 +28,7 @@ Além disso, foi utilizado o seguinte Framework para tornar as páginas dinâmic
  # :open_file_folder: Os resultados
  
 ✨ Iniciando o quizz...
-![image](https://github.com/user-attachments/assets/9748a89a-4f07-46c7-bea2-de6a62fb6aea)
+![233815468-88d1a0e5-7d2e-4d9f-a35c-348e0f5bb2fa](https://github.com/user-attachments/assets/e50f3c17-d2be-4e41-88d8-77276de3d665)
 
 <h2 align="center">🐍 Resultado Sonserina...</h2>
 
